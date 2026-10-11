@@ -1,5 +1,5 @@
 <details>
-  <summary>Click me to expand!</summary>
+  <summary>🪶</summary>
   
   Testing something
 </details>
